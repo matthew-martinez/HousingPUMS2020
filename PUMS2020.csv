@@ -1,53 +1,53 @@
-State,rentBurdenPerc,ownBurdenPerc,severeRentBurdenPerc,severeOwnBurdenPerc
-United States,49,26.94,24.44,10.72
-Florida,55.87,32.36,27.97,13.34
-Vermont,54.46,26.03,24.72,9.93
-Hawaii,53.44,41.02,27.06,16.78
-California,53.21,37.1,27.06,15.07
-Louisiana,52.1,24.79,28.65,10.51
-Nevada,51.06,28.51,24.11,10.56
-New York,50.11,31.46,26.29,13.87
-Colorado,49.88,28.03,23.66,10.29
-Maryland,49.86,26.13,24.54,9.27
-Delaware,49.38,25.15,25.91,9.65
-Connecticut,49.11,30.71,25.29,12.51
-New Jersey,48.95,32.59,24.69,12.73
-Rhode Island,48.86,29.15,22.29,10.77
-Massachusetts,48.84,29.08,24.16,10.5
-Oregon,48.52,28.88,23.82,10.87
-Georgia,48.38,24.37,22.89,9.6
-Mississippi,48.21,25.78,24.71,9.96
-Texas,48.02,26.6,22.31,9.74
-Michigan,47.86,22.18,23.99,8.44
-Washington,47.63,28.75,21.52,9.85
-South Carolina,47.51,23.57,23.33,9.59
-Alabama,47.09,22.74,23.79,8.92
-Pennsylvania,46.9,23.46,23.35,8.99
-New Hampshire,46.89,29.22,22.08,8.81
-New Mexico,46.81,27.69,21.73,10.94
-Arizona,46.5,25.65,21.87,9.7
-North Carolina,46.42,23.32,21.71,9.37
-Tennessee,46.4,22.84,22.47,8.83
-Virginia,46.02,24.55,21.33,8.9
-Idaho,45.69,23.61,19.65,9.46
-Illinois,45.68,25.61,22.54,9.97
-West Virginia,45.56,20.1,23.95,7.79
-Indiana,45.34,18.76,21.01,6.71
-Alaska,44.85,27.14,20.38,10.43
-Montana,44.76,29.04,21.8,10.26
-Wyoming,44.37,22.56,19.44,7.3
-Missouri,44.32,20.44,20.71,7.17
-Oklahoma,44.07,20.58,20.36,7.63
-Minnesota,44.04,20.7,20.91,7.16
-Utah,44.03,24.37,19.51,8.18
-Maine,43.86,25.86,18.53,10.25
-Arkansas,43.66,21.52,19.91,7.83
-Ohio,43.44,19.78,21.27,6.94
-Kentucky,43.29,21.24,21.49,7.72
-District of Columbia,42.73,25.3,17.83,9.3
-Wisconsin,42.36,21.3,20.22,7.18
-Kansas,42.33,19.35,19.76,6.61
-Iowa,41.79,18.83,20.69,6.83
-Nebraska,41.19,19.6,17.86,6.6
-South Dakota,39.65,22.53,15.81,7.55
-North Dakota,38.08,16.38,18.17,5.84
+"NAME","rentBurden","ownBurden"
+"Alabama",47.3,21.6
+"Alaska",42,29
+"Arizona",47.9,25.9
+"Arkansas",43.4,21.6
+"California",53,37
+"Colorado",50.5,28.3
+"Connecticut",50.4,30
+"Delaware",50.3,25.9
+"District of Columbia",45.2,24.3
+"Florida",56.8,33.3
+"Georgia",50.6,24.6
+"Hawaii",56.2,36.3
+"Idaho",43.2,26.2
+"Illinois",46,25.9
+"Indiana",44.8,18.4
+"Iowa",42.8,18.7
+"Kansas",43.4,19.6
+"Kentucky",43.3,21.2
+"Louisiana",51.2,24.2
+"Maine",47.7,24.6
+"Maryland",49.2,25.8
+"Massachusetts",49.1,29.6
+"Michigan",48.5,22.3
+"Minnesota",46.3,22
+"Mississippi",50,24.5
+"Missouri",44.7,20.9
+"Montana",47.8,31.2
+"Nebraska",42,21.1
+"Nevada",51.4,31.3
+"New Hampshire",42.8,27
+"New Jersey",50.3,33.3
+"New Mexico",52.6,27.9
+"New York",51.2,32.9
+"North Carolina",46,23.8
+"North Dakota",38.8,22.8
+"Ohio",43.2,20.4
+"Oklahoma",44.1,22
+"Oregon",51.1,30.5
+"Pennsylvania",46.7,24.2
+"Rhode Island",48.1,30.9
+"South Carolina",50.8,25.4
+"South Dakota",41.4,19.4
+"Tennessee",45.5,23.1
+"Texas",48.9,26.4
+"United States",49,26.9
+"Utah",42.1,23.7
+"Vermont",49.2,26.5
+"Virginia",46.2,23.6
+"Washington",48.4,28.7
+"West Virginia",49.5,20
+"Wisconsin",43.6,21.6
+"Wyoming",35.7,28.1
